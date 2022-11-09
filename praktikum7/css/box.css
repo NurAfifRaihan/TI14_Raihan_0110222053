@@ -1,0 +1,33 @@
+.a1{
+    background-color: greenyellow;
+    width: 20%;
+    margin-right: 5%;
+    margin-left: 5%;
+    height: 800px;
+    margin-top: 3%;
+}
+.a2{
+    background-color: navy;
+    width: 20%;
+    margin-right: 5%;
+    height: 800px;
+    margin-top: 3%;
+}
+.a3{
+    background-color: cyan;
+    width: 20%;
+    margin-right: 5%;
+    height: 800px;
+    margin-top: 3%;
+}
+.a4{
+    background-color: blueviolet;
+    width: 20%;
+    margin-right: 5%;
+    height: 800px;
+    margin-top: 3%;
+}
+body{
+    display: flex;
+    justify-content: center;
+}
